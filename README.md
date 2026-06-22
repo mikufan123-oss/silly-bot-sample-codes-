@@ -1,2 +1,5 @@
 # silly-bot-sample-codes-
-used for making a discord bot from discord.js documentation
+
+1. commands-file is used for slash-commands for a discord bot thread
+2. events-file is used for 
+   
