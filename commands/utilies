@@ -1,0 +1,9 @@
+new SlashCommandBuilder().setName('ping').setDescription('Replies with Pong!');
+
+for (let index = 0; index < array.length; index++) {
+	const element = array[index];
+	async
+} execute(interaction) 
+{
+	await interaction.reply('Pong!')
+}
